@@ -1,46 +1,49 @@
-Hi, I'm David Almeida 👋
+# Hi, I'm David Almeida 👋
 
-Professor and school leader based in Portugal, with a strong interest in software development, data, automation and practical technology projects.
+Professor and school leader based in Portugal, with a strong interest in **software development, data, automation and practical technology projects**.
 
 I build software alongside my work in education, focusing on projects that solve real problems, automate processes and turn data into useful information.
 
-🚀 What I'm building
-Nerqio
+## 🚀 What I'm building
+
+### 🔎 Nerqio
 
 A web platform focused on product research, comparison and affiliate content.
 
-Main technologies: Laravel, PHP, MariaDB, Git, GitHub, Cloudways.
+**Main technologies:** Laravel · PHP · MariaDB · Git · GitHub · Cloudways
 
-Football Hunter
+### ⚽ Football Hunter
 
 A .NET application for collecting and analysing football data, historical results, odds and statistical models.
 
-Main technologies: VB.NET, .NET, APIs, SQL, data analysis.
+**Main technologies:** VB.NET · .NET · APIs · SQL · Data analysis
 
-Market Hunter
+### 📈 Market Hunter
 
 A desktop application for collecting and analysing market data, signals and trading-related patterns.
 
-Main technologies: VB.NET, .NET, APIs, real-time data processing.
+**Main technologies:** VB.NET · .NET · APIs · Real-time data processing
 
-🛠️ Technologies & interests
-Laravel / PHP
-VB.NET / .NET
-SQL / MariaDB
-REST APIs
-Data analysis
-Automation
-Git & GitHub
-Web development
-AI-assisted software development
-🎓 Education
+## 🛠️ Technologies & interests
 
-I work as a professor and school leader at Escola Profissional Gustave Eiffel, combining education, technology and project development.
+- Laravel / PHP
+- VB.NET / .NET
+- SQL / MariaDB
+- REST APIs
+- Data analysis
+- Automation
+- Git & GitHub
+- Web development
+- AI-assisted software development
 
-🏃 Beyond code
+## 🎓 Education
+
+I work as a professor and school leader at **Escola Profissional Gustave Eiffel**, combining education, technology and project development.
+
+## 🏃 Beyond code
 
 When I'm not teaching or building software, I enjoy running.
 
-🔗 Connect
+## 🔗 Connect
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/david-almeida-6475562a)
