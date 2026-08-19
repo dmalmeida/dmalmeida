@@ -6,23 +6,29 @@ I build software alongside my work in education, focusing on projects that solve
 
 ## 🚀 What I'm building
 
-### 🔎 Nerqio
+### 🔎 [Nerqio](https://github.com/dmalmeida/nerqio-showcase)
 
 A web platform focused on product research, comparison and affiliate content.
 
 **Main technologies:** Laravel · PHP · MariaDB · Git · GitHub · Cloudways
 
-### ⚽ Football Hunter
+[View public showcase →](https://github.com/dmalmeida/nerqio-showcase)
+
+### ⚽ [Football Hunter](https://github.com/dmalmeida/football-hunter-showcase)
 
 A .NET application for collecting and analysing football data, historical results, odds and statistical models.
 
 **Main technologies:** VB.NET · .NET · APIs · SQL · Data analysis
 
-### 📈 Market Hunter
+[View public showcase →](https://github.com/dmalmeida/football-hunter-showcase)
+
+### 📈 [Market Hunter](https://github.com/dmalmeida/market-hunter-showcase)
 
 A desktop application for collecting and analysing market data, signals and trading-related patterns.
 
 **Main technologies:** VB.NET · .NET · APIs · Real-time data processing
+
+[View public showcase →](https://github.com/dmalmeida/market-hunter-showcase)
 
 ## 🛠️ Technologies & interests
 
