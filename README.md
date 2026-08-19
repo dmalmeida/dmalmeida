@@ -1,9 +1,46 @@
-- 👋 Hi, I’m @dmalmeida
-- 👀 I’m interested in Laravel
-- 🌱 I’m currently learning Laravel
-- 📫 How to reach me: david.miguel.almeida@gmail.com
+Hi, I'm David Almeida 👋
 
-<!---
-dmalmeida/dmalmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Professor and school leader based in Portugal, with a strong interest in software development, data, automation and practical technology projects.
+
+I build software alongside my work in education, focusing on projects that solve real problems, automate processes and turn data into useful information.
+
+🚀 What I'm building
+Nerqio
+
+A web platform focused on product research, comparison and affiliate content.
+
+Main technologies: Laravel, PHP, MariaDB, Git, GitHub, Cloudways.
+
+Football Hunter
+
+A .NET application for collecting and analysing football data, historical results, odds and statistical models.
+
+Main technologies: VB.NET, .NET, APIs, SQL, data analysis.
+
+Market Hunter
+
+A desktop application for collecting and analysing market data, signals and trading-related patterns.
+
+Main technologies: VB.NET, .NET, APIs, real-time data processing.
+
+🛠️ Technologies & interests
+Laravel / PHP
+VB.NET / .NET
+SQL / MariaDB
+REST APIs
+Data analysis
+Automation
+Git & GitHub
+Web development
+AI-assisted software development
+🎓 Education
+
+I work as a professor and school leader at Escola Profissional Gustave Eiffel, combining education, technology and project development.
+
+🏃 Beyond code
+
+When I'm not teaching or building software, I enjoy running.
+
+🔗 Connect
+
+LinkedIn
